@@ -3,7 +3,9 @@ import java.io.File;
 import java.io.IOException;
 import java.util.Map;
 import java.util.Scanner;
-import java.util.TreeMap;
+import java.util.Treemap;
+import java.util.printer;
+import java.util.scanner;
 
 public class SimpleWordCounter {
     
